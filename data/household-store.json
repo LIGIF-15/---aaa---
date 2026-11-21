@@ -1,0 +1,36 @@
+{
+  "familyProfile": {
+    "householdName": "My Household",
+    "dietaryPreferences": [
+      "Balanced"
+    ],
+    "healthGoals": [
+      "Balanced nutrition"
+    ],
+    "allergies": [],
+    "crossContaminationStrict": false,
+    "crossContaminationNotes": "",
+    "favoriteFoods": [],
+    "dislikedIngredients": [],
+    "preferredCuisines": [
+      "Mediterranean",
+      "Asian",
+      "Comfort"
+    ],
+    "spiceTolerance": "Medium",
+    "householdSize": {
+      "adults": 2,
+      "children": 0,
+      "typicalServings": 2,
+      "batchCookingPreferred": false
+    },
+    "cookingEquipment": [
+      "Stovetop",
+      "Oven",
+      "Microwave"
+    ],
+    "additionalNotes": "",
+    "updatedAt": "2026-11-14T08:32:18.680Z"
+  },
+  "pantryItems": []
+}
